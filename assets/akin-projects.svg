@@ -1,0 +1,28 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#17120D"/>
+  <rect x="146" y="130" width="1308" height="840" rx="36" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)"/>
+  <path d="M240 776H1360" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <path d="M240 566H1360" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <path d="M240 356H1360" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <path d="M430 248V850" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <path d="M780 248V850" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <path d="M1128 248V850" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <circle cx="334" cy="462" r="72" fill="url(#paint0_radial)"/>
+  <circle cx="740" cy="678" r="84" fill="url(#paint1_radial)"/>
+  <circle cx="1112" cy="390" r="58" fill="url(#paint2_radial)"/>
+  <text x="198" y="92" fill="white" fill-opacity="0.68" font-family="Manrope, sans-serif" font-size="18" letter-spacing="6">PROJECT TRACKER</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(334 462) rotate(90) scale(72)">
+      <stop stop-color="#C79B5D"/>
+      <stop offset="1" stop-color="#C79B5D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(740 678) rotate(90) scale(84)">
+      <stop stop-color="#83917A"/>
+      <stop offset="1" stop-color="#83917A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1112 390) rotate(90) scale(58)">
+      <stop stop-color="#C79B5D"/>
+      <stop offset="1" stop-color="#C79B5D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
